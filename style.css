@@ -1,0 +1,22 @@
+.Title{
+    font-size: 35;
+    font-weight: bold;
+}   
+
+
+html{
+    background-color:white
+}
+
+.aboutme{
+    font-size: 30;
+   
+}
+
+.hobbies{
+    font-size:25;
+    text-decoration: underline  ;
+}
+.hobbiesindepth{
+    font-size:20;
+}
